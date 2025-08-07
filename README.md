@@ -1,28 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20,%20I'm%20%20jayson&fontSize=90)
+# 안녕하세요👋, 권장순입니다.
 
-## Interest In
-### Programming Languages
-![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### Frameworks and Libraries
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+# **Backend Developer**
+* **Tech Stack**: Java, Spring, JPA, MySQL, AWS, Docker, Nginx, Github Actions
 
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-<img src="https://img.shields.io/badge/mongodb-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-### DevOps and Cloud Infrastructure
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
+# Experiences
+* **초록해듀오** (2025)
+* **SOPT** 34th (대학생 IT 벤처 창업 동아리) 서버 파트 수료 (2024)
+* **AWS** Fundamentals 특화과정 수료 (2023)
+* **CNU SW Academy** 백엔드 과정 수료 (2023)
+* **Google** Digital Marketing & E-Commerce 특화과정 수료 (2023)
+* **YLC** 41th (시장경제 학술동아리) 수료 (2022)
 
-## Tools
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+# Projects
+- [**TerningPoint-Kotlin: Java 서버를 Kotlin으로 마이그레이션 (2025)**](https://github.com/teamterning/Terning-Server-Kotlin)
+- [**TerningPoint-Java: 내 계획에 딱 맞는 대학생 인턴십 공고를 추천하고 지원까지 연결하는 서비스 (2024)**](https://github.com/teamterning/Terning-Server)
+- [**Noostak: 팀원들의 가능한 시간을 모아 최적의 일정을 추천하는 서비스 (2025)**](https://github.com/Noostak/Noostak-Server)
+- [**FoodiePass: 메뉴 번역 및 환율 계산 서비스 (2024)**](https://github.com/jsoonworld/foodiePass)
+- [**SeeAndYouGo: 공공 Wi-Fi 데이터를 활용하여 교내 식당들의 실시간 혼잡도와 정보를 제공하는 서비스 (2023)**](https://github.com/SeeAndYouGo/SeeAndYouGo-2)
