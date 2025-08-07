@@ -1,8 +1,8 @@
 # 안녕하세요👋, 권장순입니다.
 
 
-# **Backend Developer**
-* **Tech Stack**: Java, Spring, JPA, MySQL, AWS, Docker, Nginx, Github Actions
+-  Backend Developer
+-  Java, Spring, JPA, MySQL, AWS
 
 
 # Experiences
