@@ -15,7 +15,7 @@
 
 
 # Projects
-- [**Terning's Final Gift: 대규모 트래픽 선착순 이벤트 시스템 개발 (2025)**](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/terning-farewell-thanks/terning-farewell-server)
+- [**Terning's Final Gift: 대규모 트래픽 선착순 이벤트 시스템 개발 (2025)**](https://github.com/terning-farewell-thanks)
 - [**TerningPoint-Kotlin: Java 서버를 Kotlin으로 마이그레이션 (2025)**](https://github.com/teamterning/Terning-Server-Kotlin)
 - [**Noostak: 팀원들의 가능한 시간을 모아 최적의 일정을 추천하는 서비스 (2025)**](https://github.com/Noostak/Noostak-Server)
 - [**TerningPoint-Java: 내 계획에 딱 맞는 대학생 인턴십 공고를 추천하고 지원까지 연결하는 서비스 (2024)**](https://github.com/teamterning/Terning-Server)
