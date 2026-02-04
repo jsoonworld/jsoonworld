@@ -2,7 +2,7 @@
 
 
 -  Backend Developer
--  Java, Spring, JPA, MySQL, AWS
+-  Java, Spring, JPA, MySQL, AWS, Rust
 
 
 # Experiences
@@ -17,6 +17,7 @@
 
 
 # Projects
+- [**rJMX-Exporter: Rust 기반의 고성능 JMX Prometheus 익스포터 (2026)**](https://github.com/jsoonworld/rJMX-Exporter)
 - [**Terning-farewell: 대규모 트래픽 선착순 이벤트 시스템 개발 (2025)**](https://github.com/terning-farewell-thanks)
 - [**TerningPoint-Kotlin: Java 서버를 Kotlin으로 마이그레이션 (2025)**](https://github.com/teamterning/Terning-Server-Kotlin)
 - [**Noostak: 팀원들의 가능한 시간을 모아 최적의 일정을 추천하는 서비스 (2025)**](https://github.com/Noostak/Noostak-Server)
